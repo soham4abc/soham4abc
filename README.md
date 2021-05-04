@@ -25,13 +25,10 @@
 <p align="center">
 	1. Learning programming languages: HTML, CSS, JavaScript, C,C++, Python,
 	Bash/Shell,Angular<br>
-
 	2. Hobby: Reading books, Listen music, Play games.<br> 3. Loves to: Create Fake Scenarios inside head and of course something new techy, <br> 4. Collections of : 
 	ISO, MP3, EXE, JPEG, PDF.<br>
-	6.Bit of photographer<br> My repositories:
-	<a href="https://github.com/soham4abc?tab=repositories" target="blank">
-		</a
-	>
+	6.Bit of photographer<br> 
+
 </p>
 <h2 align="center">My Github Stats</h2>
 <p align="center">
