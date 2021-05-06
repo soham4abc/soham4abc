@@ -14,7 +14,7 @@
 <p align="center">
 	<img
 		align="center"
-		src="https://img.shields.io/badge/Profile%20Views-226-blue"
+		src="https://img.shields.io/badge/Profile%20Views-233-blue"
 	/>
 	<img
 		align="center"
