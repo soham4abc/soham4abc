@@ -4,7 +4,7 @@
 		><img
 			align="center"
 			src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjPiD9d7LK2UK72ECs4DX5cJ1sH4x6UQBKRg&usqp=CAU"
-			alt="kaswebsite"
+			alt="insta"
 			height="100"
 			width="100"
 	/></a>
