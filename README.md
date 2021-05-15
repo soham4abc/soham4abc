@@ -14,7 +14,7 @@
 <p align="center">
 	<img
 		align="center"
-		src="https://img.shields.io/badge/Profile%20Views-270-blue"
+		![](https://komarev.com/ghpvc/?username=your-github-username)
 	/>
 	<img
 		align="center"
