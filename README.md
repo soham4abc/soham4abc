@@ -12,10 +12,10 @@
 
 <h3 align="center"A student who can just code..</h3>
 <p align="center">
-	<img
-		align="center"
-		![](https://komarev.com/ghpvc/?username=your-github-username)
-	/>
+	
+		
+		![](https://komarev.com/ghpvc/?username=soham4abc)
+	
 	<img
 		align="center"
 		src="https://img.shields.io/badge/In%20all%20github%20repositories%20I%20have%20written-10756%20lines%20of%20code-blue"
