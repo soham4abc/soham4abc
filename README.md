@@ -11,15 +11,13 @@
 </p>
 
 <h3 align="center"A student who can just code..</h3>
+![](https://komarev.com/ghpvc/?username=your-soham4abc)
 <p align="center">
 	
 		
-		![](https://komarev.com/ghpvc/?username=soham4abc)
+		
+
 	
-	<img
-		align="center"
-		src="https://img.shields.io/badge/In%20all%20github%20repositories%20I%20have%20written-10756%20lines%20of%20code-blue"
-	/>
 </p>
 <h2 align="center">Personal Details</h2>
 <p align="center">
