@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=soham4abc&style=flat-square&color=lightgrey
 <h1 align="center">Hi, visitor, I'm Banerjee. Welcome to my profile</h1>
 <p align="center">
 	<a href="https://www.instagram.com/debugginglife_02/" target="blank"
@@ -11,7 +12,7 @@
 </p>
 
 <h3 align="center"A student who can just code..</h3>
-![](https://komarev.com/ghpvc/?username=your-soham4abc)
+
 <p align="center">
 	
 		
