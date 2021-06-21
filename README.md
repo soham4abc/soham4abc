@@ -12,7 +12,7 @@
 
 <!-- Personal Details -->
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"/>Personal Details<br>
-&#9745; **Learning programming languages**: HTML, CSS, JavaScript, C,C++, Python, Bash/Shell,Angular<br>
+&#9745; **Learning programming languages**: HTML, CSS, JavaScript, C,C++, Python, Bash/Shell, Angular<br>
 &#9745; **Hobby**: Reading books, Listen music, Play games, Exploring War history!<br>
 &#9745; **Loves to**: Create Fake Scenarios inside head and of course something new techy :-) <br>
 &#9745; **Collections of**: ISO, MP3, EXE, PDF.<br>
