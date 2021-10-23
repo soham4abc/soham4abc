@@ -8,7 +8,7 @@
 <br>
 <br>
 <!-- Image/Photo -->
-<p align="center"><img align="justify" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjPiD9d7LK2UK72ECs4DX5cJ1sH4x6UQBKRg&usqp=CAU" alt="insta" height="200" width="200"></p>
+<p align="center"><img align="justify" src="https://st.depositphotos.com/1915171/5109/v/600/depositphotos_51091665-stock-illustration-coder-sign-icon-programmer-symbol.jpg" alt="insta" height="200" width="200"></p>
 
 <!-- Personal Details -->
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"/>Personal Details<br>
