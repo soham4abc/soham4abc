@@ -1,5 +1,5 @@
-### Hello Everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, 
-# **[Soham Banerjee](https://soham4abc.github.io/)<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px">** this side
+### Hello Everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="5%">
+# **[Soham Banerjee](https://soham4abc.github.io/)<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="10%">** this side
 <!-- Profile View Count -->
 <img align="right" src="https://komarev.com/ghpvc/?username=soham4abc&label=Profile%20views&color=0e75b6&style=flat" alt="Soham-Banerjee"/>
 
@@ -20,7 +20,7 @@
 <br>
 <br>
 <!-- Technical Knowledge -->
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="25px"> My Tech Stack<br>
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="5%"> My Tech Stack<br>
 
 | 💻 **Technology** | 🚀 **Projects** |
 |-|-|
@@ -32,7 +32,7 @@
 <br>
 
 <!-- Github Stats -->
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="23px"> My Github Stats
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="5%"> My Github Stats
 
 <summary>Most Languages Used</summary>
 <br>
